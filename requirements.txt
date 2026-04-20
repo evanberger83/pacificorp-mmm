@@ -1,0 +1,12 @@
+
+---
+
+# 📦 requirements.txt
+
+```txt
+numpy
+pandas
+pymc
+arviz
+matplotlib
+scikit-learn
