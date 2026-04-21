@@ -10,3 +10,4 @@ pymc
 arviz
 matplotlib
 scikit-learn
+streamlit
