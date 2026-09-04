@@ -1,7 +1,7 @@
 
 ---
 
-# 📦 requirements.txt
+#requirements.txt
 
 numpy
 pandas
